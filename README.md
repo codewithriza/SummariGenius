@@ -1,7 +1,7 @@
 # SummariGenius
 
 >SummariGenius is a content summarization tool built with Streamlit in Python, leveraging the OpenAI GPT-3 API for generating concise summaries of given topics or content.
-
+> Click the link below Open In Streamlit to see the live demo of the project
 
 
 <a href="https://summarigenius.streamlit.app/">
