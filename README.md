@@ -10,6 +10,11 @@
 </a>
 
 
+</br>
+
+</br>
+
+
 >To get an API key for using the OpenAI API, you can [sign up here](https://platform.openai.com/api-keys).
 
 ![SummarizeX Demo](demo.gif)
