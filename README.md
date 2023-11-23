@@ -4,7 +4,7 @@
 
 
 
-<a href="https://your-streamlit-website-link.com">
+<a href="https://summarigenius.streamlit.app/">
 </br>
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" width="200"/>
 </a>
@@ -89,3 +89,4 @@ For questions, feedback, or support, please contact:
 - Riza Mohamed T
 - Email: codewithriza@gmail.com
 - Website: [Click here](https://rizamohamed.netlify.app/)
+- SummariGenius live demo : [Click here ](https://summarigenius.streamlit.app/)
