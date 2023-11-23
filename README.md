@@ -8,6 +8,8 @@
 </br>
   <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" width="200"/>
 </a>
+
+
 >To get an API key for using the OpenAI API, you can [sign up here](https://platform.openai.com/api-keys).
 
 ![SummarizeX Demo](demo.gif)
