@@ -30,11 +30,6 @@ def main():
         else:
             st.warning("Please enter a topic.")
 
-    st.markdown("---")
-    st.write("Made by Riza Mohamed T ")
-    st.write("[GitHub Profile](https://github.com/codewithriza)")
-    st.write("[Portfolio Website](https://rizamohamed.netlify.app)")
-    st.write("[Mail](mailto:codewithriza@gmail.com)")
 
 if __name__ == "__main__":
     main()
