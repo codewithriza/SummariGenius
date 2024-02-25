@@ -90,11 +90,3 @@ This project is licensed under the [MIT License](LICENSE).
 - [Streamlit](https://streamlit.io/)
 - [OpenAI](https://openai.com/)
 
-## Contact
-
-For questions, feedback, or support, please contact:
-
-- Riza Mohamed T
-- Email: codewithriza@gmail.com
-- Website: [Click here](https://rizamohamed.netlify.app/)
-- SummariGenius live demo : [Click here ](https://summarigenius.streamlit.app/)
