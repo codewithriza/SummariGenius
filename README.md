@@ -1,7 +1,7 @@
 # SummariGenius
 
->SummariGenius is a content summarization tool built with Streamlit in Python, leveraging the OpenAI GPT-3 API for generating concise summaries of given topics or content.
-> Click the link below Open In Streamlit to see the live demo of the project
+SummariGenius is a content summarization tool built with Streamlit in Python, leveraging the OpenAI GPT-3 API for generating concise summaries of given topics or content.
+Click the link below Open In Streamlit to see the live demo of the project
 
 
 <a href="https://summarigenius.streamlit.app/">
@@ -15,7 +15,7 @@
 </br>
 
 
->To get an API key for using the OpenAI API, you can [sign up here](https://platform.openai.com/api-keys).
+To get an API key for using the OpenAI API, you can [sign up here](https://platform.openai.com/api-keys).
 
 ![SummarizeX Demo](demo.gif)
 
@@ -89,4 +89,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [Streamlit](https://streamlit.io/)
 - [OpenAI](https://openai.com/)
+
+## Contact Me
+
+If you have any questions, suggestions, or issues with the script, feel free to contact me.
+
+---
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/840848369484169266)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/f1ndkeys)
+
 
